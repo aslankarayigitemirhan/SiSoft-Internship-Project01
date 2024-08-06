@@ -1,16 +1,9 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# The First Task:
+In my internship process in Sisoft Healthcare Information Systems, this is my first task:) 
+## LogIn + Registration
+After LOGIN page is passed with true username and password, the next page will be supplied in which these are consisted of:
+- Patient Registration
+- Waiting Patient for Doctor
+- Examine Patient (Button): When this button is pressed, the first patient will be examined by the doctor. It is designed taking into account the first patient on the relevant waiting list. (It is also sensitive for those over 65 years of age.)
+- This is also concerned for Beck Anxiety Test, which is used for understanding anxiety level on patient's mental health...
+Best Regards... 
